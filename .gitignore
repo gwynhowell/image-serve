@@ -1,0 +1,9 @@
+*.pyc
+*.datastore
+*.project
+*.pydevproject
+*.settings
+*.class
+*.dex
+*app.min.js
+.DS_Store
